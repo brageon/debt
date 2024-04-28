@@ -4,11 +4,9 @@ Consider syntax thinking instead of a flowchart. Here is Fintech:
 ```
 SAC = {[(liquidity / profit) - (brutto / solidity)] - []^-1} / 2 (27 Jones, 41 In)
 (1) SAC = (lambda L, P, B, S: ((L / P) - (B / S)) - (1 / len([(L / P) - (B / S)]))) / 2)(L, P, B, S)
-
+(3) SAD = (L / P) - (B / S), CAS = (P / L) - (S / B), SAC = SAD - CAS, CFH = SAC / 2
 (2) def calculate_SAC(L, P, B, S): return ((L / P) - (B / S)) - (1 / len([(L / P) - (B / S)])) / 2
 SAC = calculate_SAC(L, P, B, S)
-
-(3) SAD = (L / P) - (B / S), CAS = (P / L) - (S / B), SAC = SAD - CAS, CFH = SAC / 2
 ```
 
 Type checkers verify that your program follows their own type annotations (aka type hints). (Mypy, Pyright, Pyre, Pytype)
@@ -19,32 +17,34 @@ Security linters point out possible security vulnerabilities in your code. (Band
 ```
 TDR = (Cost to fix debt / Development cost) * 100% 
 Cost to fix =  15 hours * $80/hour = $1,200
+GitHub Action: wemake-python-styleguide (flake8)
 ```
+
+**Software Development Life Cycle:**
 
 clutch.co or sumatosoft.com: (Product planning, UX/UI, Product architecture design/consulting,
 Product software development, Team augmentation, API development, Testing and QA), 
 (Cost of work, Quality of work, Speed of work, Stick to timelines, Robust processes,
 Transparency in collaboration, Proven by testimonials expertise), 
 (An idea, A ready functional specification, An MVP, Active development,
-A product in need of improvement/evolution)
+A product in need of improvement/evolution). Teams of BA, PM, DevOps.  
 
-The various values for *rest* are: 
-```
-N (Halstead Program Length) = 1840 
-n (Halstead Vocabulary) = 405 
-V (Program Volume) = 15937.671699900458 bits
-D (Program Difficulty) = 27.17098445595855 
-E (Programming Effort) = 433042.2300221658 
-L (Language level) = 21.588085455317945 
-I (Intelligence Content) = 586.5695343403487 
-T (Programming time) = 24057.9016678981 seconds
-N^ (Estimated program length) = 3397.399039140907 
-L^ (Estimated language level) = 0.036803966437833714
+**Software Development Costs:**
 
-Source: gauravkghildiyal/Halstead-Metrics (No License)
-```
+* **Research Provision:**
+    * **Cost:** Can vary depending on the depth and resources needed.
+    * **One-person estimate:** $500 - $5,000 (books, online resources, attending conferences).
+* **PayPal API:**
+    * **Cost:** Freemium model with transaction fees. Free for basic integrations.
+    * **One-person estimate:** Potentially free for initial development, transaction fees apply later.
+* **Hardware:**
+    * **Cost:** Varies depending on needs (powerful computer, additional monitors, etc.). 
+    * **One-person estimate:** $1,000 - $5,000 (can be a one-time cost with occasional upgrades).
+* **Telecom:**
+    * **Cost:**  Depends on internet service provider (ISP) and plan.
+    * **One-person estimate:** $50 - $150 per month (standard internet connection).
+* **Cloud:**
+    * **Cost:** Varies based on usage and provider (e.g., AWS, Google Cloud Platform, Azure). Freemium options available.
+    * **One-person estimate:** $20 - $100 per month (can start low and scale as needed).
 
-GitHub Action: wemake-python-styleguide (flake8) 195 errors. It has mccabe, radon, and jones complexity.
-73 very hard to maintain: dict_map = {'Z': 0.3, 'J': 0.5, 'G': 0.6, 'A': 0.7, 'T': 0.9} | 69 very hard: class BaCl
-wrong keyword "pass" | 18 hard: trigram = tokens[i] + ' ' + tokens[i + 1] + ' ' + tokens[i + 2] 
-111 very hard function "calc". implicit enumerate() call: for i in range(1, len(words))
+**Total Estimated Cost (one-person):**  $2,050 - $16,650 (This is a rough estimate and can vary significantly based on specific needs and choices). Using a certified PEPPOL Access Point ensures secure data exchange. No need of ISO 27001. Process management like PIM for client by using Mockoon or Hotjar. 
