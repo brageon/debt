@@ -1,0 +1,30 @@
+EC2 Instance Connect Endpoint is intended specifically for management traffic use cases, not for high volume data transfers. High volume data transfers are throttled. Q: How to attach Elastic IP to EC2 instance using Terraform. [SNLI, Quora Question Pairs, STS-B]
+
+https://aws.amazon.com/blogs/storage/spend-less-while-increasing-performance-with-amazon-fsx-for-lustre-data-compression/?trk=ha_a134p000007C1VTAA0&trkCampaign=psc_core-infra_storage_fsx-l-data-compress_blog&sc_ichannel=ha&sc_icampaign=Adoption_Campaign_m7y21_core-infra_storage_fsx-l-data-comp_sm-console&sc_ioutcome=CSI_Digital_Marketing
+
+EC2 > System Manager > Node > Connect > pwd, ssm-user, ls /> nc, less, dmesg > mogrify -format jpg -quality 90 *png > textract 1:10 pdf:img ~ 2 minutes > FSx > Elastic IP > Kinesis > Go.yml > RDS > SageMaker > S3 | Lightsail (VPS) for WordPress.
+
+ssh -i Arn.pem ubuntu@ec2-ssh -i Arn.pem ubuntu@ec2-16-170-236-..eu-north-1.compute.amazonaws.com16-170-236-..eu-north-1.compute.amazonaws.com
+scp -i Arn.pem red.txt ubuntu@ec2-16-170-235-151.eu-north-1.compute.amazonaws.com16-170-236-..eu-north-1.compute.amazonaws.com
+aws ec2 describe-instances --instance-ids i-04596140d | 172.31..., AIPA4MTWLX, ami-0705384d
+
+scp ~/.ssh/id_dsa.pub user@host:~/.ssh/
+cat ~/.ssh/id_dsa.pub >> ~/.ssh/authorized_keys
+chmod 600 ~/.ssh/authorized_keys && chmod 700 ~/.ssh
+
+Paystub, Vaccination card, Loan application, Health insurance card, Securities and exchange commission filing, Form 1005, Financial document
+Beanstalk cannot do file uploads (lightsail) or aggregate data (ecs). Go, kinesis, splunk, spark, fsx, sagemaker. Bombora intent topics.
+
+nc -z ssm.eu-north-1.amazonaws.com 443
+nc -z ec2messages.eu-north-1.amazonaws.com 443
+nc -z ssmmessages.eu-north-1.amazonaws.com 443
+ls /usr/share/ec2-instance-connect/
+sudo less /lib/systemd/system/ssh.service.d/ec2-instance-connect.conf
+
+[Service]
+ExecStart=
+ExecStart=/usr/sbin/sshd -D -o "AuthorizedKeysCommand /usr/share/ec2-instance-connect/eic_run_authorized_keys %%u %%f" -o "AuthorizedKeysCommandUser ec2-instance-connect" $SSHD_OPTS
+
+sudo mount -t lustre -o relatime,flock fs-078ed3232b54a39cc.fsx.eu-north-1.amazonaws.com@tcp:/m7p55bmv /fsx | tee /home/ssm-user/tro.txt && sudo dmesg >> /home/ssm-user/tro.txt && sudo nano /home/ssm-user/tro.txt
+
+
