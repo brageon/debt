@@ -1,4 +1,10 @@
-3 januari 2020 : 111 broken apps. : 17 successful hacking apps.
+B2G: NIST[180025,800171,800172,80053,CSF], KISMS, BNMRMiT, NZISM, GxPEUAnnex11, CCCS, 
+GrammLeachBlileyAct, NERCCIPBCSI, PCIDSS, MASTRMG, ACSCISM, APRACPG234, CMMC[Level1-5], 
+NCSCCAF, FFIEC, HIPAA, CCNENS, NYDFS23NYCRR500, ENISACybersecurityGuide, ABSCCIGv2,
+RBIMasterDirection, FedRAMP, MASNotice655, BCPandDR, CISACyberEssentials, NBCTRMG,
+FDA21CFRPart11, CISAWSFBv1.3, ACSCISM, ACSCEssential8, NCSCCloudSecPrinciples.
+
+3 januari 2020 : 111 broken apps. : 17 successful hacking apps. No previous knowledge about IT before. Script Kiddie.
 
 1. Metasploit-framevork 2. Recon-ng 3. BabySploit 4. Dirbuster 5. Grabber 6. BurpSuite 7. Golismero 8. MITRT 9. Tornado 10. Weevely 
 11. WPScan 12. theHarvester 13. theMole 14. Yasuo 15. Lazy 16. Katoolin 17. DVWA 18. Corsy 19. Armitage 20. BeEF 21. Eaphammer 
