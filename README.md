@@ -5,7 +5,7 @@ Product software development, Team augmentation, API development, Testing and QA
 (Cost of work, Quality of work, Speed of work, Stick to timelines, Robust processes,
 Transparency in collaboration, Proven by testimonials expertise), 
 (An idea, A ready functional specification, An MVP, Active development,
-A product in need of improvement/evolution). Teams of BA, PM, DevOps.  
+A product in need of improvement/evolution). Teams of BA, PM, DevOps, Testers.  
 
 **Software Development Costs:**
 * **Research Provision:**
@@ -37,10 +37,10 @@ SAC = {[(liquidity / profit) - (brutto / solidity)] - []^-1} / 2 (27 Jones, 41 I
 Type checkers and error linters point out unhandled exceptions. (Pylint, Pyflakes, Flake8)
 Packaging linters point out issues related to packaging your code for distribution on PyPI with properly formatted descriptions, versions, and meta data fields. (Pyroma). Security linters (Bandit, Dodgy, Pysa, Snyk). 
 
-Streaming service would require c7g virtual hardware and Lustre kernel compilation. For SaaS that resembles Doccano its better with PaaS (e.g. upsun) instead of manually adding Nginx (cache), PowerDNS (SQL backend), and Kubernetes.
+Streaming service would require c7g virtual hardware and Lustre kernel compilation. For SaaS that resembles Doccano its better with PaaS (e.g. Upsun) instead of manually adding Nginx (cache), PowerDNS (SQL backend), and Kubernetes.
 
 Imagine that SSM documents from JSON represents OSINT framework but for AWS (VPCs) instead.
-By reading this attached spreadsheet anyone would have the breadth needed for AWS without CCP. A **script kiddie** would speak like a Solutions Architect after **one** day of study. *Will you enable this Service Quota? What kinds of Testers use what?*
+By reading this attached spreadsheet anyone would have the breadth needed for AWS without CCP. A **script kiddie** would speak like a Solutions Architect after **one** day of study. *Will you enable this Service Quota?*
 ```
 TDR = (Cost to fix debt / Development cost) * 100% 
 Cost to fix =  15 hours * $80/hour = $1,200
