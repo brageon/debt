@@ -48,8 +48,8 @@ GitHub Action: wemake-python-styleguide (flake8)
 ```
 Helpful Links: 
 
-[1] https://aws.amazon.com/blogs/storage/spend-less-while-increasing-performance-with-amazon-fsx-for-lustre-data-compression/?trk=ha_a134p000007C1VTAA0&trkCampaign=psc_core-infra_storage_fsx-l-data-compress_blog&sc_ichannel=ha&sc_icampaign=Adoption_Campaign_m7y21_core-infra_storage_fsx-l-data-comp_sm-console&sc_ioutcome=CSI_Digital_Marketing
+[1] https://www.rt.isy.liu.se/research/reports/Ph.D.Thesis/PhD571.pdf (testing with *pandora*)
 
-[2] https://books.google.se/books?id=5VxqDwAAQBAJ&pg=PA171&lpg=PA171&dq=_PRS/_CRS/_SRS&source=bl&ots=kSu_bK3sd-&sig=ACfU3U2m54l_3JrMsIyDTEv93LHD8qeVsg&hl=sv&sa=X&ved=2ahUKEwjXtNrN4JmGAxUVHhAIHWCHCMcQ6AF6BAgjEAM#v=onepage&q&f=false
+[2] https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/
 
-[3] https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/
+[3] https://books.google.se/books?id=5VxqDwAAQBAJ&pg=PA171&lpg=PA171&dq=_PRS/_CRS/_SRS&source=bl&ots=kSu_bK3sd-&sig=ACfU3U2m54l_3JrMsIyDTEv93LHD8qeVsg&hl=sv&sa=X&ved=2ahUKEwjXtNrN4JmGAxUVHhAIHWCHCMcQ6AF6BAgjEAM#v=onepage&q&f=false
