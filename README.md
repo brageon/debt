@@ -7,23 +7,6 @@ Transparency in collaboration, Proven by testimonials expertise),
 (An idea, A ready functional specification, An MVP, Active development,
 A product in need of improvement/evolution). Teams of BA, PM, DevOps, Testers.  
 
-**Software Development Costs:**
-* **Research Provision:**
-    * **Cost:** Can vary depending on the depth and resources needed.
-    * **One-person estimate:** $500 - $5,000 (books, online resources, attending conferences).
-* **PayPal API:**
-    * **Cost:** Freemium model with transaction fees. Free for basic integrations.
-    * **One-person estimate:** Potentially free for initial development, transaction fees apply later.
-* **Hardware:**
-    * **Cost:** Varies depending on needs (powerful computer, additional monitors, etc.). 
-    * **One-person estimate:** $1,000 - $5,000 (can be a one-time cost with occasional upgrades).
-* **Telecom:**
-    * **Cost:**  Depends on internet service provider (ISP) and plan.
-    * **One-person estimate:** $50 - $150 per month (standard internet connection).
-* **Cloud:**
-    * **Cost:** Varies based on usage and provider (e.g., AWS, GCP, Azure).
-    * **One-person estimate:** $20 - $100 per month (can start low and scale as needed).
-
 **Total Estimated Cost (one-person):**  $2,050 - $16,650 (This is a rough estimate and can vary significantly based on specific needs and choices). Using a certified PEPPOL Access Point ensures secure data exchange. No need of ISO 27001. Process management like PIM for client by using Mockoon or Hotjar. 
 
 **Tech Debt Use Cases:**
