@@ -35,4 +35,6 @@ Helpful Links:
 
 [2] https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/
 
-[3] https://books.google.se/books?id=5VxqDwAAQBAJ&pg=PA171&lpg=PA171&dq=_PRS/_CRS/_SRS&source=bl&ots=kSu_bK3sd-&sig=ACfU3U2m54l_3JrMsIyDTEv93LHD8qeVsg&hl=sv&sa=X&ved=2ahUKEwjXtNrN4JmGAxUVHhAIHWCHCMcQ6AF6BAgjEAM#v=onepage&q&f=false
+[3] https://www.codium.ai/blog/10-best-ai-coding-assistant-tools-in-2023/
+
+[4] https://www.techopedia.com/best-ai-tools-for-starting-a-business
