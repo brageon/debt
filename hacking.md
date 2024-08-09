@@ -15,8 +15,8 @@ FDA21CFRPart11, CISAWSFBv1.3, ACSCISM, ACSCEssential8, NCSCCloudSecPrinciples.
 65. Scrapy 66. SMTP2GO 67. TheFatRat 68. U3-Pwn 69. Usbris 70. Vega 71. Valnx 72. Volatility 73. W3af 74. W13Scan 75. Webhandler 
 76. WebSlayer 77. Websploit 78. WhatBreach 79. XssScan 80. Weeman 81. Spiderfoot 82. Dnmap 83. Automater 84. Arachni 85. Gobuster 
 86. ProxyStrike 87. Webshag 88. DotDotPwn 89. Skipfish 90. Cups 91. Spf 92. WhatWeb 93. Pwnat 94. ONSChef 95. Parsero  96. XssStrike  
-97. Xplice 98. OSIF 99. DNSRecon 100. Wafw00f 101. Masscan 102. Legion 103. Iodine 104. Cadaver 105. Laudanum 106. Hfind FLS 107. InSpy 
-108. OSINT-Spy 109. ReconCobra 110. Inquisitor 111. PhoneInfoga 112.
+97. Xplice 98. OSIF 99. DNSRecon 100. Wafw00f 101. Masscan 102. Legion 103. Iodine 104. Cadaver 105. Laudanum 106. Hfind FLS 107.
+98. InSpy 108. OSINT-Spy 109. ReconCobra 110. Inquisitor 111. PhoneInfoga 112.
 
 What worked for me with USB boot. 1. Remot3d, 2. IndoXploit, 3. XAttacker, 4. SQLMap, 5. Pappy, 6. Mitmproxy, 7. Arjun, 8. Commix, 9. Autosploit, 10. Witchxtool, 11. Mitmweb, 12. Poly, 13. Parameth, 14. Docem, 15. Chankro, 16. Wafninja, 17. Wafpass
 ```
