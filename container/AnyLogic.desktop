@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=AnyLogic
+Type=Application
+Terminal=false
+#Not created: Exec=/bin/sh /home/dragon/Downloads/anylogic/start-anylogic.sh
+Icon=/home/dragon/Downloads/anylogic/icon.xpm

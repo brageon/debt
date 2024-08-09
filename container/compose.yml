@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  anylogic:
+    build: .
+    image: anylogic-env
+    container_name: my_anylogic_ecr
+    volumes:
+      - my-anylogic:/opt/data
+    working_dir: /opt/
+
+volumes:
+  anylogic_data:
