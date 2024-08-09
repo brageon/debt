@@ -37,6 +37,4 @@ robotframework-excellib
 ```
 Wayland C API: For low-level interaction with the Wayland compositor. gnome-tweaks or gsettings. 
 Wayland Clients: High-level libraries that provide abstractions over the Wayland protocol (e.g., Weston, wlroots).
-Input Method Frameworks: Libraries like libinput or libxkbcommon for handling input events.Wayland C API: For low-level interaction with the Wayland compositor. gnome-tweaks or gsettings. 
-Wayland Clients: High-level libraries that provide abstractions over the Wayland protocol (e.g., Weston, wlroots).
 Input Method Frameworks: Libraries like libinput or libxkbcommon for handling input events.

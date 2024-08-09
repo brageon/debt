@@ -1,14 +1,26 @@
-EC2 Instance Connect Endpoint is intended specifically for management traffic use cases, not for high volume data transfers. 
-High volume data transfers are throttled. Q: How to attach Elastic IP to EC2 instance using Terraform. 
-[SNLI, Quora Question Pairs, STS-B] for Huggingface / TensorFlow in SageMaker. Private ECR image for Hyperpod Cluster.
+Advice: Buy custom AMIs from Marketplace with Lustre kernel support instead.
 
-EC2 > System Manager > Node > Connect > pwd, ssm-user, ls /> nc, less, dmesg > mogrify -format jpg -quality 90 *png > 
-textract 1:10 pdf:img ~ 2 minutes > FSx > Elastic IP > Kinesis > Go.yml > RDS > SageMaker > S3 
+EC2 Instance Connect Endpoint is intended specifically for management traffic use cases (NAT), not for high volume data transfers (public). 
+```
+EC2 > System Manager > Node > Connect 
+pwd, ssm-user, ls /or\ nc, less, dmesg
+mogrify -format jpg -quality 90 *png 
+textract 1:10 pdf:img ~ 2 minutes
+FSx > Elastic IP > Kinesis > Go.yml 
+RDS > SageMaker > S3 
+```
+Reusable prompt: How to attach Elastic IP to EC2 instance using Terraform. 
+Using Terraform for EC2 configuration, such as assigning an Elastic IP to an IoT Slave device like an Arduino, is a valid use case.
+
+1. AWS IoT Device SDK to establish a secure connection between the EC2 instance running the VME core and the AWS IoT service. 
+2. Once the connection is established, you can use the IoT APIs to manage and monitor your IoT devices, send commands, and receive data from.
 
 Lightsail (VPS) for WordPress. GraphQL is used in social media for API customization. Aurora is used for prizes instead of PostgreSQL (RDS).
-Paystub, Vaccination card, Loan application, Health insurance card, Securities and exchange commission filing, Form 1005, Financial document
-Beanstalk cannot run file uploads or aggregate data (ECS). Go, kinesis, splunk, spark, fsx, sagemaker. Bombora intent topics.
+Paystub, Vaccination card, Loan application, Health insurance card, Securities and exchange commission filing, Form 1005, Financial document.
 
+Beanstalk cannot run file uploads or aggregate data (ECS). Go, kinesis, splunk, spark, fsx, sagemaker. Bombora intent topics. 
+Golang are not supported enough to HPC pipelines unlike Java. Google Guava for concurrent hash table to S3 with oak{UID}.txt simultaneously.
+```
 ssh -i Arn.pem ubuntu@ec2-ssh -i Arn.pem ubuntu@ec2-16-170-236-..eu-north-1.compute.amazonaws.com16-170-236-..eu-north-1.compute.amazonaws.com
 scp -i Arn.pem red.txt ubuntu@ec2-16-170-235-151.eu-north-1.compute.amazonaws.com16-170-236-..eu-north-1.compute.amazonaws.com
 aws ec2 describe-instances --instance-ids i-04596140d | 172.31..., AIPA4MTWLX, ami-0705384d
@@ -30,23 +42,16 @@ ExecStart=/usr/sbin/sshd -D -o "AuthorizedKeysCommand /usr/share/ec2-instance-co
 
 sudo mount -t lustre -o relatime,flock fs-078ed3232b54a39cc.fsx.eu-north-1.amazonaws.com@tcp:/m7p55bmv /fsx | tee \
 /home/ssm-user/tro.txt && sudo dmesg >> /home/ssm-user/tro.txt && sudo nano /home/ssm-user/tro.txt
+```
+LLQ (Low Latency Queues) may be disabled if the system does not require low latency for network traffic or if enabling LLQ leads to additional overhead or resource consumption. Free Tier limits in Trainium. 
 
-BIOS-provided physical RAM map: 
-[0.000000] BIOS-e820: [mem 0x0000000000000000-0x000000000009ffff1 usable
-[0.000000] BIOS-e820: [mem 0x0000000000100000-0x00000000390cdfff1 usable
-[0.000000] BIOS-e820: [mem 0x00000000390ce000-0x000000003934dfff1 reserved
-[0.000000] BIOS-e820: [mem 0x000000003934e000-0x000000003935dfff1 ACPI data
-[0.0000001 BIOS-e820: [mem 0x000000003935e000-0x00000000393ddfffl ACPI NVS
-[0.000000] BIOS-e820: [mem 0x00000000393de000-0x000000003d37bfff) usable
-[0.000000] BIOS-e820: [mem 0x000000003d37c000-0x000000003d3fffff1 reserved
-[0.000000] NX (Execute Disable) protection: active
-[0.000000] APIC: Static calls initialized
-
+NVM: SSD, EPROM, optical / floppy disks. The most common use of NMI is to prevent data corruption but it can give false alarms. 
+```
 Linux version 6.8.0-1008-aws (x86_64-linux-gnu-gcc-13 (Ubuntu 13.2.0-23ubuntu4) 13.2.0, GNU ld (GNU Binutils for Ubuntu) 2.42).
 KERNEL supported cpus: Intel GenuineIntel, AMD AuthenticAMD, Hygon HygonGenuine, Centaur CentaurHauls, zhaoxin Shanghai.
-(BOOT_IMAGE=/vmlinuz-6.8.0-1008-aws) (root=PARTUUID=227fdd7f-aae5-441a-80c5-ad2flc6e5bbro) (console=tty1 console=ttyS0) 
-(vme_core.io_timeout=4294967295 # bus controller for runbooks) (panic=-1 # don't reboot)
-ftrace: allocated 227 pages (GB) with 5 groups. Spectre v2 / SpectreRSB mitigation: Filling RSB on context switch. 
+(BOOT_IMAGE=/vmlinuz-6.8.0-1008-aws) (root=PARTUUID=227fdd7f-aae5-441a-80c5-ad2) (console=tty1 console=ttyS0) 
+(vme_core.io_timeout=4294967295 # bus controller for runbooks) 
+(panic=-1 # don't reboot) ftrace: allocated 227 pages (GB) with 5 groups. Spectre v2 / SpectreRSB mitigation: Filling RSB on context switch. 
 (Spectre leaves CPU vulnerable to RETBleed attacks # side-channel). SRCU the update operation does not wait for all readers to finish.
 MDS CPU bug present and SMT on. MDS (Microarchitectural Data Sampling) CPU bug when simultaneous multithreading (SMT) is enabled.
 NMI Watchdog disabled # the system is no longer actively monitoring for parity errors inside the memory subsystem. 
@@ -54,25 +59,18 @@ NMI is a hardware mechanism that can trigger a system reset if OS hangs, offerin
 CPU model 85 does not have support for performance monitoring unit (PMU) driver. Only Prometheus and Watchdog is supported.
 apparmor-"STATUS" operation-"profile_load" profile-"unconfined" name=4D6F6E676F444220436F6D70617373 pid=335 comm="apparmor_parser"
 # AppArmor Security Profile: "MongoDB Compass" for unconfined in conjunction with "lpassword", "rsyslogd", "QtWebEngine", "brave". 
-
-AWS IoT Device SDK to establish a secure connection between the EC2 instance running the VME core and the AWS IoT service. Once the 
-connection is established, you can use the IoT APIs provided by AWS to manage and monitor your IoT devices, send commands, and receive 
-data from them. Using Terraform for EC2 configuration, such as assigning an Elastic IP to an IoT Slave device like an Arduino, is a 
-valid use case. NVM: SSD, EPROM, optical / floppy disks. The most common use of NMI is to prevent data corruption but it can give false alarms.
-
-LLQ (Low Latency Queues) may be disabled if the system does not require low latency for network traffic or if enabling LLQ leads to additional 
-overhead or resource consumption. Free Tier limits in Trainium. Amazon Linux is required. Run commands inside aws.xls for Ansible/Terraform.
-
+```
 _PRS, _CRS, _SRS = Residency State, Runtime, Performance, Cooling, Silent RPM. getent group, /etc/group, /etc/passwd, /var/log/syslog
 awscli lustre client for ssh. /proc/sys/fs/acpi_osi/, /proc/acpi/blacklist, /dev/cpu_idle, /proc/sys/fs/acpi_osi
 
 ACPI Operating System Capabilities (OSC) evaluation for CPUs failed and the system is trying to use a different method, possibly Platform 
 Design Configuration (PDC). Ubuntu vs AWS Linux. PNP0A03: fail to add MMCONFIG information # see more at https://lwn.net/Articles/263288/, 
 PNP0A08 driver can only manage PCI buses via _PRS/_CRS/_SRS, which contain the device-specific details including ECAM inside PNP0C02.
-
+```
 lsof -i:327,336,339,341,906 && /sbin/losetup --list # loop3: detected capacity change from 0 to 8, snapd is disabled
-
+```
 Go web app for should work even if CONFIGIMADISABLE_HTABLE is disabled inside an EC2 instance where files are being uploaded back-and-forth. 
 The concurrent hash table implementation in Go, such as sync.Map, allows you to safely access and modify the map from multiple channels. 
-Test data races inside Echo with goroutines assigning UIDs to various browsers simultaneously. Use HAProxy's `stick-table` to maintain session 
-persistence for incoming requests inside S3 from EC2. PDC launches HPC clusters. EKS, Batch, Slurm might be more helpful. 
+Test data races inside Echo with goroutines assigning UIDs to various browsers simultaneously. 
+Use HAProxy's `stick-table` to maintain session persistence for incoming requests inside S3 from EC2. PDC launches HPC clusters. 
+EKS, Batch, Slurm might be more helpful. 
