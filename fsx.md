@@ -1,28 +1,30 @@
-Advice: Buy custom AMIs from Marketplace with Lustre kernel support instead.
+Advice: Buy custom AMIs from Marketplace with Lustre kernel support instead. EKS, Batch, Slurm might be more helpful than Echo server.
 
 EC2 Instance Connect Endpoint is intended specifically for management traffic use cases (NAT), not for high volume data transfers (public). 
 ```
 EC2 > System Manager > Node > Connect 
 pwd, ssm-user, ls /or\ nc, less, dmesg
-mogrify -format jpg -quality 90 *png 
-textract 1:10 pdf:img ~ 2 minutes
-FSx > Elastic IP > Kinesis > Go.yml 
-RDS > SageMaker > S3 
+
+Convert screenshots: mogrify -format jpg -quality 90 *png 
+Troubleshoot: textract 1:10 pdf:img ~ 2 minutes
+
+FSx > Elastic IP > Kinesis > Go.yml > RDS > SageMaker > S3 
+
+Paystub, Vaccination card, Loan application, Health insurance card,
+Securities and exchange commission filing, Form 1005, Financial document.
 ```
 Reusable prompt: How to attach Elastic IP to EC2 instance using Terraform. 
 Using Terraform for EC2 configuration, such as assigning an Elastic IP to an IoT Slave device like an Arduino, is a valid use case.
 
 1. AWS IoT Device SDK to establish a secure connection between the EC2 instance running the VME core and the AWS IoT service. 
-2. Once the connection is established, you can use the IoT APIs to manage and monitor your IoT devices, send commands, and receive data from.
+2. Once the connection is made, you can use the IoT APIs to manage and monitor your IoT devices, send commands, and receive data from.
 
 Lightsail (VPS) for WordPress. GraphQL is used in social media for API customization. Aurora is used for prizes instead of PostgreSQL (RDS).
-Paystub, Vaccination card, Loan application, Health insurance card, Securities and exchange commission filing, Form 1005, Financial document.
-
 Beanstalk cannot run file uploads or aggregate data (ECS). Go, kinesis, splunk, spark, fsx, sagemaker. Bombora intent topics. 
 Golang are not supported enough to HPC pipelines unlike Java. Google Guava for concurrent hash table to S3 with oak{UID}.txt simultaneously.
 ```
-ssh -i Arn.pem ubuntu@ec2-ssh -i Arn.pem ubuntu@ec2-16-170-236-..eu-north-1.compute.amazonaws.com16-170-236-..eu-north-1.compute.amazonaws.com
-scp -i Arn.pem red.txt ubuntu@ec2-16-170-235-151.eu-north-1.compute.amazonaws.com16-170-236-..eu-north-1.compute.amazonaws.com
+ssh -i Arn.pem ubuntu@ec2-16-170-236-..eu-north-1.compute.amazonaws.com
+scp -i Arn.pem red.txt ubuntu@ec2-16-170-236-..eu-north-1.compute.amazonaws.com
 aws ec2 describe-instances --instance-ids i-04596140d | 172.31..., AIPA4MTWLX, ami-0705384d
 
 scp ~/.ssh/id_dsa.pub user@host:~/.ssh/
@@ -72,5 +74,4 @@ lsof -i:327,336,339,341,906 && /sbin/losetup --list # loop3: detected capacity c
 Go web app for should work even if CONFIGIMADISABLE_HTABLE is disabled inside an EC2 instance where files are being uploaded back-and-forth. 
 The concurrent hash table implementation in Go, such as sync.Map, allows you to safely access and modify the map from multiple channels. 
 Test data races inside Echo with goroutines assigning UIDs to various browsers simultaneously. 
-Use HAProxy's `stick-table` to maintain session persistence for incoming requests inside S3 from EC2. PDC launches HPC clusters. 
-EKS, Batch, Slurm might be more helpful. 
+Use HAProxy's `stick-table` to maintain session persistence for incoming requests inside S3 from EC2. PDC launches HPC clusters.  
