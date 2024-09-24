@@ -7,7 +7,23 @@ Transparency in collaboration, Proven by testimonials expertise),
 (An idea, A ready functional specification, An MVP, Active development,
 A product in need of improvement/evolution). Teams of BA, PM, DevOps, Testers.  
 
-**Total Estimated Cost (one-person):**  $2,050 - $16,650 (This is a rough estimate and can vary significantly based on specific needs and choices). Using a certified PEPPOL Access Point ensures secure data exchange. No need of ISO 27001. Process management like PIM for client by using Mockoon or Hotjar. 
+**Total Estimated Cost (one-person):**
+$2,050 - $16,650 (This is a rough estimate and can vary significantly based on specific needs and choices). Process management like PIM for client by using Mockoon or Hotjar. 
+
+**Business Requirements:** 
+The art of Fantasy (arbitrage, game keys flipping, gift cards, music gen AI, crowdsourcing) lies in throwing dices. With Colab one can automate certain steps such as ROI from bookies' market efficient odds. Fantasy is extensive. Backtracking is more adapted than transformation. For instance *prophecy* define *fantasy* while *plot device* don't build *fantasy*. 
+
+Sales are more engaging if you are the inventor. Notice that one field is not commutative with another. Callcenter is not transferable to sales engineering. Gift cards are temporary subsistence. Long lasting models are games and restaurants. Graves's spiral dynamics helps to cluster NER based on memes. Don't underestimate NER in promoting. 
+
+Red Herring is a plot device. It's also a bias. Now promotion happens with meme+emphases. Sumatosoft is "cheerleader, bandwagon". This implies that association to a greater NER brand is necessary.
+
+**Emphases of Zeal:**
+Story: iteration, antithesis, direct proportion, pause, inverse proportion, suspense, surprise, terminal position, initial position. Enneagram: 1-9. If 2w1 antithesis-iteration happen with "relativistic" than the author are rigid but not dogmatic. 
+
+Remedy: 1) established community and customer testimonals, 2) the product looking like a bigger brand, 3) same key words. 
+
+**Perspective Pyramid:** 
+A toddler can make a story. A twelve year old can make ensemble cast. A 17y can make coherent stories. A 25y can earn money in the grey zone of the law - blockchain. A 30y can adjust his fantasy to the dice outcome. A D16 have 42 distinct motifs. A 35y can make long-lasting patterns such as lucky numbers (rule of 72). 
 
 **Tech Debt Use Cases:**
 Consider syntax thinking instead of flowcharts before Excel. Here is Fintech:
