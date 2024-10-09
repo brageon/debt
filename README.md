@@ -29,7 +29,7 @@ Story: iteration, antithesis, direct proportion, pause, inverse proportion, susp
 A toddler can make a story. A twelve year old can make ensemble cast. A 17y can make coherent stories. A 25y can earn money in the grey zone of the law - blockchain. A 30y can adjust his fantasy to the dice outcome. D1+D3 is (1) while (3) Facebook. The decision to post museum visits are impartially approved. A 35y can make long-lasting patterns such as lucky numbers (rule of 72).
 
 **Tech Debt Use Cases:**
-Consider syntax thinking instead of flowcharts before Excel. Here is Fintech:
+Consider syntax thinking before Excel. Here is Fintech:
 ```
 SAC = {[(liquidity / profit) - (brutto / solidity)] - []^-1} / 2 (27 Jones, 41 In)
 (1) SAC = (lambda L, P, B, S: ((L / P) - (B / S)) - (1 / len([(L / P) - (B / S)]))) / 2)(L, P, B, S)
