@@ -4,7 +4,10 @@ Helpful Links:
 
 [1] https://github.com/notpresident35/awesome-learn-gamedev
 
-clutch.co or sumatosoft.com: (Product planning, UX/UI, Product architecture design/consulting,
+[2] https://github.com/awesome-selfhosted/awesome-selfhosted
+
+**Consulting Advertisement:**
+clutch.co to sumatosoft.com: (Product planning, UX/UI, Product architecture design/consulting,
 Product software development, Team augmentation, API development, Testing and QA), 
 (Cost of work, Quality of work, Speed of work, Stick to timelines, Robust processes,
 Transparency in collaboration, Proven by testimonials expertise), 
