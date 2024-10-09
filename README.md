@@ -1,7 +1,5 @@
 # Software Life Cycle
 
-Helpful Links:
-
 [1] https://github.com/notpresident35/awesome-learn-gamedev
 
 [2] https://github.com/awesome-selfhosted/awesome-selfhosted
