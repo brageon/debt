@@ -13,9 +13,9 @@ Transparency in collaboration, Proven by testimonials expertise),
 A product in need of improvement/evolution). Teams of BA, PM, DevOps, Testers.  
 
 **Total Estimated Cost (one-person):**
-$2,050 - $16,650 (This is a rough estimate and can vary significantly based on specific needs and choices). Process management like PIM for client by using Mockoon or Hotjar. 
+$2,050 - $16,650 (This is a rough estimate and can vary significantly based on specific needs and choices). Process management like PIM for client by using Mockoon or Hotjar. Check out Jay Simons at designly.biz for one-man show. 
 
-**Business Requirements:** 
+# Business Requirements:
 The art of Fantasy (game keys flipping, gift cards, music gen, stock trading) lies in dice rolling. With Colab one can automate certain steps such as ROI from market efficient odds. Fantasy is extensive. Backtracking is more adapted than transformation. For instance *prophecy* define *fantasy* while *plot device* don't build *fantasy*. 
 
 Sales are more engaging if you are the inventor. Notice that one field is not commutative with another. Call center is not transferable to sales engineering. Gift cards are temporary subsistence. Long lasting models are games and restaurants. Graves's spiral dynamics helps to cluster NER based on memes. 
@@ -25,10 +25,10 @@ Red Herring is a plot device. It's also a bias. Now promotion happens with meme+
 **Emphases of Zeal:**
 Story: iteration, antithesis, direct proportion, pause, inverse proportion, suspense, surprise, terminal position, initial position. Enneagram: 1-9. If 2w1 antithesis-iteration happen with "green" than the author are rigid but not dogmatic. 1) established community and testimonals, 2) the product looking like a bigger brand, 3) same key words. 
 
-**Perspective Pyramid:** 
-A toddler can make a story. A twelve year old can make ensemble cast. A 17y can make coherent stories. A 25y can earn money in the grey zone of the law - blockchain. A 30y can adjust his fantasy to the dice outcome. D1+D3 is (1) while (3) Facebook. The decision to post museum visits are impartially approved. A 35y can make long-lasting patterns such as lucky numbers (rule of 72).
+# Perspective Pyramid:
+A toddler can make a story. A twelve year old can make ensemble cast. A 17y can make coherent stories. A 25y can earn money in the grey zone of the law - blockchain. A 30y can adjust his fantasy to the dice outcome. D1+D3 is (1) while (3) Facebook. The decision to post museum visits are impartially approved. A 35y can make long-lasting patterns such as lucky numbers (rule of 72). Check out *rest/oanc* for more examples. 
 
-**Tech Debt Use Cases:**
+**Tech Debt Use Case:**
 Consider syntax thinking before Excel. Here is Fintech:
 ```
 SAC = {[(liquidity / profit) - (brutto / solidity)] - []^-1} / 2 (27 Jones, 41 In)
