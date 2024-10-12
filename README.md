@@ -13,7 +13,7 @@ Transparency in collaboration, Proven by testimonials expertise),
 A product in need of improvement/evolution). Teams of BA, PM, DevOps, Testers.  
 
 **Total Estimated Cost (one-person):**
-$2,050 - $16,650 (This is a rough estimate and can vary significantly based on specific needs and choices). Process management like PIM for client by using Mockoon or Hotjar. Check out Jay Simons at designly.biz for one-man show. 
+$2,050 - $16,650 (This is a rough estimate and can vary significantly based on specific needs and choices). Process management like PIM for client by using Mockoon or Hotjar. Check out Jay Simons at designly.biz for dev Rambo. 
 
 # Business Requirements:
 The art of Fantasy (game keys flipping, gift cards, music gen, stock trading) lies in dice rolling. With Colab one can automate certain steps such as ROI from market efficient odds. Fantasy is extensive. Backtracking is more adapted than transformation. For instance *prophecy* define *fantasy* while *plot device* don't build *fantasy*. 
