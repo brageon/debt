@@ -1,6 +1,6 @@
-Advice: Buy custom AMIs from Marketplace with Lustre kernel support instead. EKS, Batch, Slurm might be more helpful than Echo server.
+# Media Streaming
 
-EC2 Instance Connect Endpoint is intended specifically for management traffic use cases (NAT), not for high volume data transfers (public). 
+Buy custom AMIs from Marketplace with Lustre kernel support instead. EKS, Batch, Slurm might be more helpful than Echo server *imgo*. EC2 Instance Connect Endpoint is intended specifically for management traffic use cases (NAT), not for high volume data transfers (public). 
 ```
 EC2 > System Manager > Node > Connect 
 pwd, ssm-user, ls /or\ nc, less, dmesg
@@ -10,8 +10,9 @@ Troubleshoot: textract 1:10 pdf:img ~ 2 minutes
 
 FSx > Elastic IP > Kinesis > Go.yml > RDS > SageMaker > S3 
 
-Paystub, Vaccination card, Loan application, Health insurance card,
-Securities and exchange commission filing, Form 1005, Financial document.
+Paystub, Vaccination card, Loan application, 
+Health insurance card, Financial document,
+Security exchange commission filing, Form 1005
 ```
 Reusable prompt: How to attach Elastic IP to EC2 instance using Terraform. 
 Using Terraform for EC2 configuration, such as assigning an Elastic IP to an IoT Slave device like an Arduino, is a valid use case.
@@ -25,7 +26,7 @@ Golang are not supported enough to HPC pipelines unlike Java. Google Guava for c
 ```
 ssh -i Arn.pem ubuntu@ec2-16-170-236-..eu-north-1.compute.amazonaws.com
 scp -i Arn.pem red.txt ubuntu@ec2-16-170-236-..eu-north-1.compute.amazonaws.com
-aws ec2 describe-instances --instance-ids i-04596140d | 172.31..., AIPA4MTWLX, ami-0705384d
+aws ec2 describe-instances --instance-ids i-04596140d | 172.31..., AIPA4MTWLX
 
 scp ~/.ssh/id_dsa.pub user@host:~/.ssh/
 cat ~/.ssh/id_dsa.pub >> ~/.ssh/authorized_keys
@@ -62,16 +63,17 @@ CPU model 85 does not have support for performance monitoring unit (PMU) driver.
 apparmor-"STATUS" operation-"profile_load" profile-"unconfined" name=4D6F6E676F444220436F6D70617373 pid=335 comm="apparmor_parser"
 # AppArmor Security Profile: "MongoDB Compass" for unconfined in conjunction with "lpassword", "rsyslogd", "QtWebEngine", "brave". 
 ```
-_PRS, _CRS, _SRS = Residency State, Runtime, Performance, Cooling, Silent RPM. getent group, /etc/group, /etc/passwd, /var/log/syslog
-awscli lustre client for ssh. /proc/sys/fs/acpi_osi/, /proc/acpi/blacklist, /dev/cpu_idle, /proc/sys/fs/acpi_osi
-
 ACPI Operating System Capabilities (OSC) evaluation for CPUs failed and the system is trying to use a different method, possibly Platform 
 Design Configuration (PDC). Ubuntu vs AWS Linux. PNP0A03: fail to add MMCONFIG information # see more at https://lwn.net/Articles/263288/, 
 PNP0A08 driver can only manage PCI buses via _PRS/_CRS/_SRS, which contain the device-specific details including ECAM inside PNP0C02.
 ```
-lsof -i:327,336,339,341,906 && /sbin/losetup --list # loop3: detected capacity change from 0 to 8, snapd is disabled
+getent group, /etc/group, /etc/passwd, 
+/var/log/syslog, /proc/sys/fs/, /proc/acpi
+
+lsof -i:327,336,339,341,906 && /sbin/losetup --list 
+#loop3: detected capacity from 0 to 8, snapd disabled
 ```
 Go web app for should work even if CONFIGIMADISABLE_HTABLE is disabled inside an EC2 instance where files are being uploaded back-and-forth. 
 The concurrent hash table implementation in Go, such as sync.Map, allows you to safely access and modify the map from multiple channels. 
 Test data races inside Echo with goroutines assigning UIDs to various browsers simultaneously. 
-Use HAProxy's `stick-table` to maintain session persistence for incoming requests inside S3 from EC2. PDC launches HPC clusters.  
+Use HAProxy's **stick-table** to maintain session persistence for incoming requests inside S3 from EC2. PDC launches HPC clusters.  
