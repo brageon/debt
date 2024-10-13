@@ -1,4 +1,4 @@
-# Safe Behaviors
+# Internet Safety
 B2G: NIST[180025,800171,800172,80053,CSF], KISMS, BNMRMiT, NZISM, GxPEUAnnex11, CCCS, 
 GrammLeachBlileyAct, NERCCIPBCSI, PCIDSS, MASTRMG, ACSCISM, APRACPG234, CMMC[Level1-5], 
 NCSCCAF, FFIEC, HIPAA, CCNENS, NYDFS23NYCRR500, ENISACybersecurityGuide, ABSCCIGv2,
@@ -7,17 +7,17 @@ FDA21CFRPart11, CISAWSFBv1.3, ACSCISM, ACSCEssential8, NCSCCloudSecPrinciples.
 
 January 3, 2020. 111 broken apps. : 17 successful hacking apps. No previous knowledge about IT before. Script Kiddie. Prevention: [ ESLint, IDE plugins, and GitHub Actions ], [ MFA, password rotation, and separate browsers ], [ Black list, SPF, DKIM, and DMARC ].
 
-* 1. Metasploit-framevork 2. Recon-ng 3. BabySploit 4. Dirbuster 5. Grabber 6. BurpSuite 7. Golismero 8. MITRT 9. Tornado 10. Weevely 
-* 11. WPScan 12. theHarvester 13. theMole 14. Yasuo 15. Lazy 16. Katoolin 17. DVWA 18. Corsy 19. Armitage 20. BeEF 21. Eaphammer 
-* 22. Fluxion 23. Gophish 24. Ngrok 25. Pdfbook 26. Sqid 27. Autopsy 28. Binwalk 29. Bulk_extractor 30. Dradis 31. Dmitry 32. Magic-Tree 
-* 33. Facebookosint 34. Facebook-Location 35. Creepy 36. Ferret 37. Hamster-sidejack 38. Vulnhub 39. Airgedden 40. Airoscript 41. Catphish 
-* 42. Xsser 43. XSpear 44. Crackle 45. Crunch 46. Dawnscanner 47. Wafp 48. Dirb 50. Exploitpack 51. Fierce 52. Fimap 53. Foremost 
-* 54. Galleta 55. Giskismet 56. Httrack 57. OpenVAS  58. Maltego 59. Tor 60. I2P 61. ParamPamPam 62. Photos 63. Rekall 64. Scapy 
-* 65. Scrapy 66. SMTP2GO 67. TheFatRat 68. U3-Pwn 69. Usbris 70. Vega 71. Valnx 72. Volatility 73. W3af 74. W13Scan 75. Webhandler 
-* 76. WebSlayer 77. Websploit 78. WhatBreach 79. XssScan 80. Weeman 81. Spiderfoot 82. Dnmap 83. Automater 84. Arachni 85. Gobuster 
-* 86. ProxyStrike 87. Webshag 88. DotDotPwn 89. Skipfish 90. Cups 91. Spf 92. WhatWeb 93. Pwnat 94. DNSChef 95. Parsero  96. XssStrike  
-* 97. Xplico 98. OSIF 99. DNSRecon 100. Wafw00f 101. Masscan 102. Legion 103. Iodine 104. Cadaver 105. Laudanum 106. Hfind FLS 107.
-* 98. InSpy 108. OSINT-Spy 109. ReconCobra 110. Inquisitor 111. PhoneInfoga 112.
+1. Metasploit-framevork 2. Recon-ng 3. BabySploit 4. Dirbuster 5. Grabber 6. BurpSuite 7. Golismero 8. MITRT 9. Tornado 10. Weevely 
+11. WPScan 12. theHarvester 13. theMole 14. Yasuo 15. Lazy 16. Katoolin 17. DVWA 18. Corsy 19. Armitage 20. BeEF 21. Eaphammer 
+22. Fluxion 23. Gophish 24. Ngrok 25. Pdfbook 26. Sqid 27. Autopsy 28. Binwalk 29. Bulk_extractor 30. Dradis 31. Dmitry 32. Magic-Tree 
+33. Facebookosint 34. Facebook-Location 35. Creepy 36. Ferret 37. Hamster-sidejack 38. Vulnhub 39. Airgeddon 40. Airoscript 41. Catphish 
+42. Xsser 43. XSpear 44. Crackle 45. Crunch 46. Dawnscanner 47. Wafp 48. Dirb 50. Exploitpack 51. Fierce 52. Fimap 53. Foremost 
+54. Galleta 55. Giskismet 56. Httrack 57. OpenVAS  58. Maltego 59. Tor 60. I2P 61. ParamPamPam 62. Photos 63. Rekall 64. Scapy 
+65. Scrapy 66. SMTP2GO 67. TheFatRat 68. U3-Pwn 69. Usbris 70. Vega 71. Valnx 72. Volatility 73. W3af 74. W13Scan 75. Webhandler 
+76. WebSlayer 77. Websploit 78. WhatBreach 79. XssScan 80. Weeman 81. Spiderfoot 82. Dnmap 83. Automater 84. Arachni 85. Gobuster 
+86. ProxyStrike 87. Webshag 88. DotDotPwn 89. Skipfish 90. Cups 91. Spf 92. WhatWeb 93. Pwnat 94. DNSChef 95. Parsero  96. XssStrike  
+97. Xplico 98. OSIF 99. DNSRecon 100. Wafw00f 101. Masscan 102. Legion 103. Iodine 104. Cadaver 105. Laudanum 106. Hfind FLS 107.
+98. InSpy 108. OSINT-Spy 109. ReconCobra 110. Inquisitor 111. PhoneInfoga 112.
 
 What worked for me with USB boot. 1. Remot3d, 2. IndoXploit, 3. XAttacker, 4. SQLMap, 5. Pappy, 6. Mitmproxy, 7. Arjun, 8. Commix, 9. Autosploit, 10. Witchxtool, 11. Mitmweb, 12. Poly, 13. Parameth, 14. Docem, 15. Chankro, 16. Wafninja, 17. Wafpass
 ```
