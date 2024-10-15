@@ -52,4 +52,4 @@ Opinion Links:
 
 [2] https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/
 
-[3] https://github.com/wimmuskee/readability-score
+[3] https://github.com/wimmuskee/readability-score (Flesch reading ease)
