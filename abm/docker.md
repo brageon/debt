@@ -1,4 +1,6 @@
-Docker Hub Tokens under Security Settings. File install.sh is shown after running binary file that will create Desktop launcher. However the launcher will not work inside the container. Command -vmargs -Xmx1024M is used instead. It could be of missing startup script. Compose is central management of configurations instead of redo everything in Docker CLI. Chromium is required by AnyLogic. X11 is required by Expect to automate licensing agreement. You cannot be interactive inside a container.
+<h1 align="center">Container</h1>
+Docker Hub Tokens under Security Settings. File install.sh is shown after running binary file that will create Desktop launcher. However the launcher will not work inside the container. Command -vmargs -Xmx1024M is used instead. It could be of missing startup script. Compose is central management of configurations instead of redo everything in Docker CLI. Chromium is required by AnyLogic. X11 is required by Expect to automate licensing agreement. You cannot be interactive inside.
+
 ```
 chmod +x *.bin
 wget --continue "https://files.anylogic.com/libwebkit/lib*"
