@@ -8,8 +8,8 @@ Transparency in collaboration, Proven by testimonials expertise),
 (An idea, A ready functional specification, An MVP, Active development,
 A product in need of improvement/evolution). Teams of BA, PM, DevOps, Testers.  
 
-**Total Estimated Cost (one-person):**
-$2,050 - $16,650 is a rough estimate and can vary significantly based on specific needs and choices. Process management like PIM for client by using Mockoon or Hotjar. Check out Jay Simons at designly.biz for dev Rambo. *F62*
+**Total Estimated Cost:**
+$2,050 - $16,650 is a rough estimate and can vary significantly based on specific needs and choices. Check out Jay Simons at designly.biz for dev Rambo. *F62*
 
 **FOSS** to [games](https://github.com/notpresident35/awesome-learn-gamedev) and [in-house](https://github.com/awesome-selfhosted/awesome-selfhosted) servers. Opinions: The role of [PhD](https://www.rt.isy.liu.se/research/reports/Ph.D.Thesis/PhD571.pdf) in machine learning after *imgo* infrastructure. Why [one](https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/) language is better than knowing many. How-to instructions with [Flesch](https://github.com/wimmuskee/readability-score).
 
