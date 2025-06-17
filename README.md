@@ -1,7 +1,6 @@
 <h1 align="center">Software Life Cycle</h1>
 
-**Consulting Advertisement:**
-[Product planning, UX/UI, Product architecture design/consulting,
+**Advertisement:** [Product planning, UX/UI, Product architecture design/consulting,
  Product software development, Team augmentation, API development, Testing and QA.] [Cost of work, Quality of work, Speed of work, Stick to timelines, Robust processes. Transparency in collaboration.] [An idea, A ready functional specification, An MVP, Active development, A product in need of improvement.] Teams of BA, PM, DevOps, Testers.  
  
 **FOSS** to [games](https://github.com/notpresident35/awesome-learn-gamedev) and [in-house](https://github.com/awesome-selfhosted/awesome-selfhosted) servers. Opinions: How-to instructions with [Flesch](https://github.com/wimmuskee/readability-score). The role of [PhD](https://www.rt.isy.liu.se/research/reports/Ph.D.Thesis/PhD571.pdf) in machine learning after *imgo* infrastructure. Why [one](https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/) language is better than knowing many.
