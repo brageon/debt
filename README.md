@@ -1,10 +1,9 @@
 # Software Life Cycle
 
-Advertising:
+Advertising Milestones:
 * [Product planning, UX/UI, Product architecture design/consulting.]
-* [Product software development, Team augmentation, API development, Quality Assurance, Testing.]
+* [Product software development, Team augmentation, API development, Quality assurance, Testing.], [Robust processes. Transparency in collaboration.]
 * [Cost of work, Quality of work, Speed of work, Stick to timeline.]
-* [Robust processes. Transparency in collaboration.]
 * [An idea, A ready functional specification, An MVP, Active development, A product in need of improvement.]
 
 **Pricing**: (Cost to fix debt / Dev cost) * 100%. Teams of BA, PM, DevOps, Testers.
