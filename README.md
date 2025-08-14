@@ -2,7 +2,7 @@
 
 Advertising:
 * [Product planning, UX/UI, Product architecture design/consulting.]
-* [Product software development, Team augmentation, API development, Quality Assurance.]
+* [Product software development, Team augmentation, API development, Quality Assurance, Testing.]
 * [Cost of work, Quality of work, Speed of work, Stick to timeline.]
 * [Robust processes. Transparency in collaboration.]
 * [An idea, A ready functional specification, An MVP, Active development, A product in need of improvement.]
