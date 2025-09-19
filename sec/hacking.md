@@ -26,13 +26,6 @@ id && pwd && uname -a && ip -br a
 nano /esc/proxychains.com #dynamic_chain
 socks4 lp port
 
-curl -fst htps://download.docker.com/linux/debian/gpg 1 apt-key add -
-echo 'deb (arch=amd64) https://download.docker.com/inux/debian buster stable'>/etc/apt/sources:list.d/docker.list
-apt-get update && apt-get upgrade
-apt-get remove docker docker-engine docker io && apt-get install docker-ce
-docker run hello-world
-systemct start docker
-
 openvpn -config vpnbook-usl-tcp443.ovpn
 User vpnbook Word 2k3a6rw
 cat /dev/null > /root/bash_history && history -c && exit
@@ -90,7 +83,7 @@ commix --url="http//localhost/ajax/" -file-write=/root/Pictures/kali.png  --file
 commix --url="http://localhost/demo.php --data="name=discobisquits&weighr=discobisquits" --web-root=/opt/lampp/
 
 pip2 install -r requirements.txt
-docker-compose run -fin autosploit
+docker-compose run -fin autosploit # debt/ops/
 python autosploit.py
 openssl req -newkey rsa:2048 -nodes -keyout gophish.key -x509 -days 365 -out gophish.crt
 pip install beautifulsoup4 requests
