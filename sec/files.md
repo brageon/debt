@@ -1,4 +1,4 @@
-# Media Streaming
+<h1 align="center">Media Streaming</h1>
 
 Buy custom AMIs from Marketplace with Lustre kernel support instead. EKS, Batch, Slurm might be more helpful than Echo server *imgo*. EC2 Instance Connect Endpoint is intended specifically for management traffic use cases (NAT), not for high volume data transfers (public). 
 ```
