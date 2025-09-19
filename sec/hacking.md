@@ -104,8 +104,9 @@ wafninja.py fuzz -u "http://localhost/action.php?id=FUZZ/" -c "phpsessid=value" 
 wafpass.py --url http://localhost/action.phpPname=fun8oweigth=fun
 
 scrapy genspider -t crawl exam coinbase.com
-scrapy crawl quotes -O q.json -a tag=humor scrapy shell 'url' file.html \
-text response.css("span.text::text").getall()
+scrapy crawl quotes -O q.json -a tag=humor
+scrapy shell 'url' file.html text \
+response.css("span.text::text").getall()
 quotesbot|scrapy toscrape-css -o q.json
 scrapy fetch -nolog --headers url
 ```
