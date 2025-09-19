@@ -1,4 +1,4 @@
-# Code Anywhere
+<h1 align="center">Code Anywhere</h1>
 
 B.ipynb make a PDF from A.ipynb if you want to build a report.
 ```
@@ -6,7 +6,18 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 import os
+os.environ["API_TENNIS_KEY"] = "d7j65e..03141"
+os.environ["ACCUWEATHER_KEY"] = "qiz_g7f69c..03651"
+API_TENNIS_KEY = os.getenv("API_TENNIS_KEY")
+ACCUWEATHER_KEY = os.getenv("ACCUWEATHER_KEY")
+
+import os
 os.chdir('/content/drive/MyDrive/')
+
+import sys
+sys.path.append('/content/drive/MyDrive/App/ufo')
+import colour # permanent install 
+#!pip install --target=/content/drive/MyDrive/App/ufo colour-science
 
 !apt-get update
 !apt-get install -y texlive-xetex
